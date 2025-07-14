@@ -1,5 +1,7 @@
-// File: pages/resume.vue
+
 <template>
+  <HeroBanner headline="Marcy Steele, PMP®" :subheading="'Agile Software Developer | Certified Project Management Professional'"/>
+
   <section class="bg-white py-24 px-6">
     <div class="max-w-4xl mx-auto">
       <h2 class="text-4xl font-bold text-purple-700 mb-10 text-center">Résumé</h2>
@@ -129,4 +131,5 @@
 </template>
 
 <script setup>
+import HeroBanner from '@/components/hero-banner';
 </script>

@@ -1,0 +1,6 @@
+:root {
+  --particle-color: #920bad;
+}
+.dark {
+  --particle-color: #60086d;
+}

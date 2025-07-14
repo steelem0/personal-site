@@ -1,9 +1,9 @@
 <template>
   <section class="bg-slate-50 py-24 px-6">
     <div class="max-w-4xl mx-auto text-center">
-      <h2 class="text-4xl font-extrabold text-purple-700 mb-4">Designing AI-powered digital experiences</h2>
+      <h2 class="text-4xl font-extrabold text-purple-700 mb-4">Innovating & Re-imagining the Future with Artificial Intelligence</h2>
       <p class="text-xl text-gray-700 mb-8">
-       <i>Designing immersive, intelligent experiences for real people in real life.</i>
+       <i>Turning bold ideas into AI-powered applications that push boundaries.</i>
       </p>
       <div class="flex justify-center gap-4">
         <NuxtLink to="/portfolio" class="px-6 py-3 bg-purple-700 text-white rounded-lg font-semibold hover:bg-purple-800">
@@ -39,7 +39,8 @@
 </section>
   <section class="py-20 px-6 bg-slate-50">
     <div class="max-w-5xl mx-auto">
-      <h3 class="text-2xl font-bold text-gray-800 mb-6">Project Management</h3>
+      <h3 class="text-2xl font-bold text-gray-800 mb-6 text-center">Project Management</h3>
+     <p class="text-gray-700 text-lg mb-6 text-center">Great projects don’t happen by accident. They need structure, communication, and constant iteration. I use agile methodologies to align people, priorities, and problems — balancing technical feasibility with user needs.</p>
       <div class="grid md:grid-cols-3 gap-6">
         <div class="bg-slate-100 p-6 rounded-xl shadow">
           <h4 class="text-lg font-semibold text-purple-700 mb-2">Strategic Needs Analysis & Cross-Functional Collaboration</h4>
