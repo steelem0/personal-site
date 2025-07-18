@@ -1,6 +1,6 @@
 import tailwindcss from "@tailwindcss/vite";
 export default defineNuxtConfig({
-  modules: ['nuxt-particles'],
+  modules: ['nuxt-particles', '@nuxt/image'],
     build: {
     transpile: ['tsparticles', 'tsparticles-shape-char']
   },

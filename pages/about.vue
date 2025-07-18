@@ -1,12 +1,10 @@
 <script setup lang="ts"></script>
 
 <template>
-  <section class="bg-slate-50 py-24 px-6">
+  <HeroBanner headline="Hi, I'm Marcy" subheading=" Senior Developer and PMI–PMP® Certified Project Manager with ITIL 4 foundations and over 10 years of experience in IT, specializing in human-centered design, modular architecture, and scalable digital ecosystems. Extensive experience delivering government and military solutions, leading cross-functional teams, and crafting innovative, AI-driven platforms built for real-world complexity"/>
+  <section class="bg-slate-50 py-24 ">
     <div class="max-w-4xl mx-auto text-center">
-      <h2 class="text-4xl font-extrabold text-purple-700 mb-4">Hi, I'm Marcy</h2>
-      <p class="text-lg text-gray-700 mb-8">
-         Senior Developer and PMI–PMP® Certified Project Manager with ITIL 4 foundations and over 10 years of experience in IT, specializing in human-centered design, modular architecture, and scalable digital ecosystems. Extensive experience delivering government and military solutions, leading cross-functional teams, and crafting innovative, AI-driven platforms built for real-world complexity.
-      </p>
+      <h2 class="text-4xl font-extrabold text-purple-700 ">About Me</h2>
     </div>
 
     <div class="max-w-5xl mx-auto grid gap-12">
