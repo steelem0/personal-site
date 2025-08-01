@@ -69,6 +69,21 @@
      <p class="text-gray-700 mb-4">Designing for engagement is both a creative and strategic practice. It requires a nuanced understanding of user psychology, system capabilities, and organizational goals. When done well, it transforms digital products from mere tools into meaningful, motivating experiences that users return to — not out of habit, but out of genuine connection and value.</p>
 </div>
 </section>
+  <section class="bg-gradient-to-br from-teal-50 to-white py-16 px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h3 class="text-2xl font-bold text-gray-800 mb-4">Ready to Launch Responsibly?</h3>
+      <p class="text-gray-700 mb-6 text-sm">
+        Adopting generative AI is not just a tech decision—it’s a strategic one. Take the time to assess readiness across people, data, tools, and policy. Treat AI like any other critical tool: with structure, intent, and respect for its limitations.
+      </p>
+      <a 
+        href="https://ca.linkedin.com/in/marcy-s-98425567" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="inline-block bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-6 rounded-xl shadow-md transition">
+        → Connect with Me on LinkedIn
+      </a>
+    </div>
+  </section>
 
 
 
